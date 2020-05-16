@@ -1,1 +1,0 @@
-# Scroll Indicator Bar
